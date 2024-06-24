@@ -48,8 +48,8 @@ importers:
         specifier: ^0.6.0
         version: 0.6.0(@astrojs/starlight@0.24.4(astro@4.11.0(typescript@5.5.2)))(astro@4.11.0(typescript@5.5.2))
       starlight-showcases:
-        specifier: ^0.1.1
-        version: 0.1.1(@astrojs/starlight@0.24.4(astro@4.11.0(typescript@5.5.2)))(astro@4.11.0(typescript@5.5.2))
+        specifier: ^0.1.2
+        version: 0.1.2(@astrojs/starlight@0.24.4(astro@4.11.0(typescript@5.5.2)))(astro@4.11.0(typescript@5.5.2))
 
   playground:
     dependencies:
@@ -2872,8 +2872,8 @@ packages:
       '@astrojs/starlight': '>=0.22.0'
       astro: '>=4.2.7'
 
-  starlight-showcases@0.1.1:
-    resolution: {integrity: sha512-hibdzRE5UPheGGDNh4jcO6SdRqjMvpxvB9+2frpVK6JrstTAQYWKhwYXey/Fk/L4Fnfeatf5rflEzm2CO9uK/Q==}
+  starlight-showcases@0.1.2:
+    resolution: {integrity: sha512-yj3RjcdWLIWdehTjne9Ethd3ff95vMbuVx/87lU4yilTQewQxjnAyOf1KSnGUgTMQT5WTqhDw8LciPBJox+b8Q==}
     engines: {node: '>=18'}
     peerDependencies:
       '@astrojs/starlight': '>=0.23.0'
@@ -6933,7 +6933,7 @@ snapshots:
       '@astrojs/starlight': 0.24.4(astro@4.11.0(typescript@5.5.2))
       astro: 4.11.0(typescript@5.5.2)
 
-  starlight-showcases@0.1.1(@astrojs/starlight@0.24.4(astro@4.11.0(typescript@5.5.2)))(astro@4.11.0(typescript@5.5.2)):
+  starlight-showcases@0.1.2(@astrojs/starlight@0.24.4(astro@4.11.0(typescript@5.5.2)))(astro@4.11.0(typescript@5.5.2)):
     dependencies:
       '@astro-community/astro-embed-twitter': 0.5.4(astro@4.11.0(typescript@5.5.2))
       '@astro-community/astro-embed-youtube': 0.5.2(astro@4.11.0(typescript@5.5.2))
