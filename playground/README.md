@@ -13,6 +13,14 @@
   <br />
 </div>
 
+## Playground
+
+Run the playground locally using [pnpm](https://pnpm.io):
+
+```shell
+pnpm run dev
+```
+
 ## License
 
 Licensed under the MIT License, Copyright © HiDeoo.
