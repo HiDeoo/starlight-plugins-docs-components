@@ -1,0 +1,12 @@
+---
+import {
+  PackageManagers as DefaultPackageManagers,
+  type PackageManagersProps as DefaultPackageManagersProps,
+} from 'starlight-package-managers'
+
+export type PackageManagersProps = Props
+
+type Props = DefaultPackageManagersProps
+---
+
+<DefaultPackageManagers pkgManagers={['npm', 'pnpm', 'yarn', 'ni']} {...Astro.props} />
