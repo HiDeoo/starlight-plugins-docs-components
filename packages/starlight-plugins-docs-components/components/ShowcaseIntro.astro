@@ -1,0 +1,17 @@
+---
+import { ShowcaseCTA } from 'starlight-showcases'
+
+export type ShowcaseIntroProps = Props
+
+interface Props {
+  cta: string
+  href: string
+}
+
+const { cta, href } = Astro.props
+---
+
+<ShowcaseCTA>
+  {cta}{' '}
+  <a {href}>Open a PR</a> to add it to the list!
+</ShowcaseCTA>
