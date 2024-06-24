@@ -1,6 +1,6 @@
 {
   "name": "@hideoo/starlight-plugins-docs-components-playground",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "MIT",
   "description": "Set of opinionated Starlight components used in HiDeoo's Starlight plugins documentations.",
   "author": "HiDeoo <github@hideoo.dev> (https://hideoo.dev)",
