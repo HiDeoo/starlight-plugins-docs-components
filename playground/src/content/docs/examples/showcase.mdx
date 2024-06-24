@@ -1,0 +1,37 @@
+---
+title: Showcase
+---
+
+import {
+  ShowcaseIntro,
+  Showcase,
+} from '@hideoo/starlight-plugins-docs-components'
+
+<ShowcaseIntro
+  cta="Have you built a plugin site?"
+  href="https://github.com/HiDeoo/starlight-plugins-docs-components/edit/main/docs/src/content/docs/examples/showcase.mdx"
+/>
+
+## Sites
+
+Starlight Plugin is already being used in production. These are some of the sites around the web:
+
+<Showcase
+  entries={[
+    {
+      thumbnail: import('../../../assets/starlight-openapi.png'),
+      href: 'https://github.com/HiDeoo/starlight-openapi',
+      title: 'starlight-openapi',
+    },
+    {
+      thumbnail: import('../../../assets/starlight-obsidian.png'),
+      href: 'https://github.com/HiDeoo/starlight-obsidian',
+      title: 'starlight-obsidian',
+    },
+    {
+      thumbnail: import('../../../assets/starlight-image-zoom.png'),
+      href: 'https://github.com/HiDeoo/starlight-image-zoom',
+      title: 'starlight-image-zoom',
+    },
+  ]}
+/>
