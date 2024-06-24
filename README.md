@@ -1,1 +1,1 @@
-# starlight-plugins-docs-components
+packages/starlight-plugins-docs-components/README.md
