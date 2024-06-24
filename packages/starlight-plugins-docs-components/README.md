@@ -1,6 +1,6 @@
 <div align="center">
   <h1>starlight-plugins-docs-components 🧰</h1>
-  <p>Set of opinionated Starlight components used in my Starlight plugins documentations.</p>
+  <p>Set of opinionated Starlight components used in HiDeoo's Starlight plugins documentations.</p>
 </div>
 
 <div align="center">

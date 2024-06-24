@@ -2,7 +2,7 @@
   "name": "@hideoo/starlight-plugins-docs-components-monorepo",
   "version": "0.0.1",
   "license": "MIT",
-  "description": "// TODO(HiDeoo)",
+  "description": "Set of opinionated Starlight components used in HiDeoo's Starlight plugins documentations.",
   "author": "HiDeoo <github@hideoo.dev> (https://hideoo.dev)",
   "type": "module",
   "scripts": {
@@ -28,7 +28,11 @@
   "private": true,
   "sideEffects": false,
   "keywords": [
-    "// TODO(HiDeoo)"
+    "starlight",
+    "components",
+    "plugins",
+    "documentation",
+    "astro"
   ],
   "homepage": "https://github.com/HiDeoo/starlight-plugins-docs-components",
   "repository": {
