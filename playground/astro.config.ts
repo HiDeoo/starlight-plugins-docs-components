@@ -16,6 +16,7 @@ export default defineConfig({
         },
       ],
       social: {
+        blueSky: 'https://bsky.app/profile/hideoo.dev',
         github: 'https://github.com/HiDeoo/starlight-plugins-docs-components',
       },
       title: 'Starlight Plugins Docs Components',

@@ -7,7 +7,7 @@
   "type": "module",
   "scripts": {
     "lint": "pnpm -r lint",
-    "prepare": "husky"
+    "format": "pnpm -r format"
   },
   "devDependencies": {
     "@hideoo/eslint-config": "^3.0.1",
@@ -15,8 +15,6 @@
     "@hideoo/tsconfig": "^2.0.1",
     "astro": "^4.11.0",
     "eslint": "^8.57.0",
-    "husky": "^9.0.11",
-    "lint-staged": "^15.2.7",
     "prettier": "^3.3.2",
     "prettier-plugin-astro": "^0.14.0",
     "typescript": "^5.5.2"
@@ -39,11 +37,5 @@
     "type": "git",
     "url": "https://github.com/HiDeoo/starlight-plugins-docs-components.git"
   },
-  "bugs": "https://github.com/HiDeoo/starlight-plugins-docs-components/issues",
-  "lint-staged": {
-    "*": [
-      "prettier -w -u --cache",
-      "eslint --cache --no-warn-ignored --max-warnings=0"
-    ]
-  }
+  "bugs": "https://github.com/HiDeoo/starlight-plugins-docs-components/issues"
 }
