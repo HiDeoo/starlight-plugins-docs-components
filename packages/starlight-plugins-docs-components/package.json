@@ -10,15 +10,14 @@
     "./package.json": "./package.json"
   },
   "scripts": {
-    "lint": "eslint . --cache --max-warnings=0",
-    "format": "prettier -w --cache --ignore-unknown ."
+    "lint": "eslint . --cache --max-warnings=0"
   },
   "dependencies": {
-    "starlight-package-managers": "^0.6.0",
-    "starlight-showcases": "^0.1.2"
+    "starlight-package-managers": "^0.8.1",
+    "starlight-showcases": "^0.3.0"
   },
   "peerDependencies": {
-    "@astrojs/starlight": ">=0.24.0"
+    "@astrojs/starlight": ">=0.30.0"
   },
   "engines": {
     "node": ">=18"
