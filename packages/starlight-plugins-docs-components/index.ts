@@ -1,4 +1,6 @@
+export { default as I18n } from './components/I18n.astro'
 export { default as PackageManagers, type PackageManagersProps } from './components/PackageManagers.astro'
+export { default as Preview } from './components/Preview.astro'
 export { default as ResourcesIntro } from './components/ResourcesIntro.astro'
 export { default as Resources, type ResourceProps } from './components/Resources.astro'
 export { default as ShowcaseIntro, type ShowcaseIntroProps } from './components/ShowcaseIntro.astro'
