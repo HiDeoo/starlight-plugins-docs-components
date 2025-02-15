@@ -1,5 +1,13 @@
 # @hideoo/starlight-plugins-docs-components
 
+## 0.4.0
+
+### Minor Changes
+
+- [#7](https://github.com/HiDeoo/starlight-plugins-docs-components/pull/7) [`c630682`](https://github.com/HiDeoo/starlight-plugins-docs-components/commit/c630682c81e7e9dd45e720bfd6dd1a31d83fc056) Thanks [@HiDeoo](https://github.com/HiDeoo)! - Adds new `<Preview>` component.
+
+- [#7](https://github.com/HiDeoo/starlight-plugins-docs-components/pull/7) [`c630682`](https://github.com/HiDeoo/starlight-plugins-docs-components/commit/c630682c81e7e9dd45e720bfd6dd1a31d83fc056) Thanks [@HiDeoo](https://github.com/HiDeoo)! - Adds new `<I18n>` component.
+
 ## 0.3.0
 
 ### Minor Changes
