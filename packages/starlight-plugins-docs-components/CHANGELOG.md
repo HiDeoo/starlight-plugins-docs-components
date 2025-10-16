@@ -1,5 +1,11 @@
 # @hideoo/starlight-plugins-docs-components
 
+## 0.4.1
+
+### Patch Changes
+
+- [#10](https://github.com/HiDeoo/starlight-plugins-docs-components/pull/10) [`7dd8c1b`](https://github.com/HiDeoo/starlight-plugins-docs-components/commit/7dd8c1ba496a622e492ca72a278af03c9f6f0e19) Thanks [@HiDeoo](https://github.com/HiDeoo)! - Setups trusted publishing using OpenID Connect (OIDC) authentication — no code changes.
+
 ## 0.4.0
 
 ### Minor Changes
