@@ -15,10 +15,18 @@ export default defineConfig({
           autogenerate: { directory: 'examples' },
         },
       ],
-      social: {
-        blueSky: 'https://bsky.app/profile/hideoo.dev',
-        github: 'https://github.com/HiDeoo/starlight-plugins-docs-components',
-      },
+      social: [
+        {
+          href: 'https://bsky.app/profile/hideoo.dev',
+          icon: 'blueSky',
+          label: 'Bluesky',
+        },
+        {
+          href: 'https://github.com/HiDeoo/starlight-plugins-docs-components',
+          icon: 'github',
+          label: 'GitHub',
+        },
+      ],
       title: 'Starlight Plugins Docs Components',
     }),
   ],
