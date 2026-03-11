@@ -1,5 +1,11 @@
 # @hideoo/starlight-plugins-docs-components
 
+## 0.4.2
+
+### Patch Changes
+
+- [#12](https://github.com/HiDeoo/starlight-plugins-docs-components/pull/12) [`ea6f249`](https://github.com/HiDeoo/starlight-plugins-docs-components/commit/ea6f2498ec77d677589119d2eba7f9988647c95c) Thanks [@HiDeoo](https://github.com/HiDeoo)! - Adds support for Astro v6.
+
 ## 0.4.1
 
 ### Patch Changes
