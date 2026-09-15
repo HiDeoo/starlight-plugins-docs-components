@@ -1,5 +1,13 @@
 # @hideoo/starlight-plugins-docs-components
 
+## 0.5.0
+
+### Minor Changes
+
+- [#15](https://github.com/HiDeoo/starlight-plugins-docs-components/pull/15) [`0aa361c`](https://github.com/HiDeoo/starlight-plugins-docs-components/commit/0aa361cfe60a4833989fceccc6929836d1d01ae2) Thanks [@HiDeoo](https://github.com/HiDeoo)! - Removes `ni` from the default package managers shown by the package manager component.
+
+- [#15](https://github.com/HiDeoo/starlight-plugins-docs-components/pull/15) [`0aa361c`](https://github.com/HiDeoo/starlight-plugins-docs-components/commit/0aa361cfe60a4833989fceccc6929836d1d01ae2) Thanks [@HiDeoo](https://github.com/HiDeoo)! - Changes the default package manager component variant to `compact`.
+
 ## 0.4.2
 
 ### Patch Changes
